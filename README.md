@@ -14,6 +14,8 @@ includes the Home page, Country page, Cuisine page, Blogger page, Contact page, 
 <img width="1895" height="887" alt="Screenshot 2026-02-03 003725" src="https://github.com/user-attachments/assets/ca37cb1d-7f9a-4ff4-beee-3607550a4f4f" />
 <img width="1896" height="888" alt="Screenshot 2026-02-03 003659" src="https://github.com/user-attachments/assets/c5f48c30-8851-4b52-ae8d-0b8ad5adcc5c" />
 <img width="1900" height="891" alt="Screenshot 2026-02-03 003649" src="https://github.com/user-attachments/assets/975977da-bbb6-4af3-b859-d6a12f356715" />
+<img width="1887" height="887" alt="Screenshot 2026-02-04 155823" src="https://github.com/user-attachments/assets/d991ce9a-8b70-44a7-84be-6e4f446ae3a5" />
+
 <img width="1870" height="863" alt="Screenshot 2026-02-04 155427" src="https://github.com/user-attachments/assets/f7845859-a62e-4f95-8822-ef2e2b64052b" />
 <img width="1875" height="882" alt="Screenshot 2026-02-04 155449" src="https://github.com/user-attachments/assets/c62159a9-c167-4628-9059-f309099cef17" />
 <img width="1887" height="873" alt="Screenshot 2026-02-03 003542" src="https://github.com/user-attachments/assets/98eeef11-f6bb-47ce-8ddb-89c5d2b5b884" />
