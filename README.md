@@ -10,8 +10,10 @@ We envision a world where culinary boundaries are blurred, where every home cook
 
 ## In GlobalEat 
 includes the Home page, Country page, Cuisine page, Blogger page, Contact page, Food page which introduces a variety of global foods, and a Random page which generates random recipes.
-
+<br>
 <img width="1895" height="887" alt="Screenshot 2026-02-03 003725" src="https://github.com/user-attachments/assets/ca37cb1d-7f9a-4ff4-beee-3607550a4f4f" />
+<br>
+
 <img width="1896" height="888" alt="Screenshot 2026-02-03 003659" src="https://github.com/user-attachments/assets/c5f48c30-8851-4b52-ae8d-0b8ad5adcc5c" />
 <img width="1900" height="891" alt="Screenshot 2026-02-03 003649" src="https://github.com/user-attachments/assets/975977da-bbb6-4af3-b859-d6a12f356715" />
 <img width="1887" height="887" alt="Screenshot 2026-02-04 155823" src="https://github.com/user-attachments/assets/d991ce9a-8b70-44a7-84be-6e4f446ae3a5" />
